@@ -7,8 +7,6 @@ Development was started on March 28th, 2025, by Marcin Jacek Chmiel.
 # Contributors 
 As of now, there are no more contributors than the original author.
 If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com*
-# Newsletter
-If you want to join the newsletter, send me your receiving e-mail adress to *martingonn-dev@outlook.com*. Your data will not be sold or distributed in any way.
 # Disclaimer!!!
 **Do not use the code in any illegal way!** I made it because my friend wanted me to test his Minecraft server.
 # How to use
