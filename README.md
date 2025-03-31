@@ -3,7 +3,7 @@ A Python payload maker that I originally made to text Mobaxterm servers.
 # What is it?
 The code generates a payload that opens the target's shell and reveals passwords to the attacker. Has one-line launch or a series of prompts.
 # Original Author 
-Development was started on March 28th, 2025, by Marcin Jacek Chmiel.
+Development was started on March 27th, 2025, by Marcin Jacek Chmiel.
 # Contributors 
 As of now, there are no more contributors than the original author.
 If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com*
