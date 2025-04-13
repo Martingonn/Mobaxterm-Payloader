@@ -3,8 +3,7 @@ A Python payload maker and deliverer that I originally made to test Mobaxterm se
 # What is it?
 The code generates a payload that opens the target's shell and reveals passwords to the attacker. Has a series of prompts.
 # Is it a trojan?!
-Of course it isn't. Windows Defender flags it because of hexadecimal IP adress and payloads. To be clear, these payloads are not executed on attacker device. 
-<br> Instead, they are send to the victim machine and executed there.
+Of course it isn't. Windows Defender flags it because of hexadecimal IP adress and payloads. To be clear, these payloads are not executed on attacker device. Instead, they are send to the victim machine and executed there.
 <br>If you do not trust me, simply examine the code. It does not connect to any external servers except the victim device whose adress YOU specify.
 # Original Author 
 Development was started on March 27th, 2025, by Marcin Jacek Chmiel.
