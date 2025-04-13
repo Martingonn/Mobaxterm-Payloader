@@ -22,4 +22,4 @@ If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com
 * allow for MAC-spoofing integration
 
 # Downloads
-![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/Mobaxterm-Payloader/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/Multi-Vector-Attack-Toolkit/total)
